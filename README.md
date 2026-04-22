@@ -16,7 +16,11 @@ Technologies Used :
 • JavaScript
 
 Project Description :
-Users enter two numbers and choose an operation. The calculator performs the selected operation and shows the result immediately on the page.
+-Built a console based calculator using Java
+-Performed addition, subtraction, multiplication, division
+-Used switch case for operation selection
+-Handled user input using Scanner
+-Displayed results in terminal output
 
 How to Run :
 Download the project files and open index.html in a web browser.
